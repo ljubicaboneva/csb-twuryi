@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://ljubicaboneva.github.io/csb-twuryi/static/css/main.9b1431d8.chunk.css",
+    "main.js": "https://ljubicaboneva.github.io/csb-twuryi/static/js/main.d3518904.chunk.js",
+    "main.js.map": "https://ljubicaboneva.github.io/csb-twuryi/static/js/main.d3518904.chunk.js.map",
+    "runtime-main.js": "https://ljubicaboneva.github.io/csb-twuryi/static/js/runtime-main.2cbd55a5.js",
+    "runtime-main.js.map": "https://ljubicaboneva.github.io/csb-twuryi/static/js/runtime-main.2cbd55a5.js.map",
+    "static/js/2.e70f6a46.chunk.js": "https://ljubicaboneva.github.io/csb-twuryi/static/js/2.e70f6a46.chunk.js",
+    "static/js/2.e70f6a46.chunk.js.map": "https://ljubicaboneva.github.io/csb-twuryi/static/js/2.e70f6a46.chunk.js.map",
+    "index.html": "https://ljubicaboneva.github.io/csb-twuryi/index.html",
+    "precache-manifest.597029409e87aec226667bb216e24b21.js": "https://ljubicaboneva.github.io/csb-twuryi/precache-manifest.597029409e87aec226667bb216e24b21.js",
+    "service-worker.js": "https://ljubicaboneva.github.io/csb-twuryi/service-worker.js",
+    "static/css/main.9b1431d8.chunk.css.map": "https://ljubicaboneva.github.io/csb-twuryi/static/css/main.9b1431d8.chunk.css.map",
+    "static/js/2.e70f6a46.chunk.js.LICENSE.txt": "https://ljubicaboneva.github.io/csb-twuryi/static/js/2.e70f6a46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cbd55a5.js",
+    "static/js/2.e70f6a46.chunk.js",
+    "static/css/main.9b1431d8.chunk.css",
+    "static/js/main.d3518904.chunk.js"
+  ]
+}
